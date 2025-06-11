@@ -1,5 +1,5 @@
 # 💫 About Me: Hey I'm Mohammad Naqui
-Hey I'm <br>I'm currently student in Gautam Buddha University<br>A passionate full stack developer from India<br>
+<br>I'm currently student in Gautam Buddha University<br>A passionate full stack developer from India<br>
 
 
 ## 🌐 Socials:
