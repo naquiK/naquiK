@@ -1,4 +1,5 @@
-# <center>💫 Hey I'm Mohammad Naqui</center>
+# <br>💫 Hey I'm Mohammad Naqui 
+
 <br>I'm currently student in Gautam Buddha University<br>A passionate full stack developer from India<br>
 
 
