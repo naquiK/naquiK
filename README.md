@@ -2,7 +2,7 @@
 # <br>💫 Hey I'm Mohammad Naqui 
 
 
-👨‍💻 I’m currently learning AI/ML <br>🌐 A passionate full stack developer from India<br>🐞 Currently finding myself in a bug — not just in code, but in life. Debugging both, one line and one thought at a time... <br> <a href="https://portfolio-website-rho-orpin-69.vercel.app/">My portfolio website<a>
+👨‍💻 I’m currently learning AI/ML <br>🌐 A passionate full stack developer from India<br>🐞 Currently finding myself in a bug — not just in code, but in life. Debugging both, one line and one thought at a time... <br> 🌐<a target="_blank" href="https://portfolio-website-rho-orpin-69.vercel.app/">My portfolio website<a>
 
 
 ## 🌐 Socials:
